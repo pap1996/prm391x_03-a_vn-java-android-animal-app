@@ -3,7 +3,7 @@
 
 <p align="center"><a href="https://funix.edu.vn/gioi-thieu-funix/"><img src="/res/image/funix.png" width="200"/></a></p>
 
- This folder contains my submission to the assignment 3 `Animal Mobile App` for a simple e-newspaper in the course PRM391x_3-A_VN (Mobile Application Programming), a part of the path Software Engineering provided by FUNiX.
+ This folder contains my submission to the assignment 3 `Animal Mobile App` in the course PRM391x_3-A_VN (Mobile Application Programming), a part of the path Software Engineering provided by FUNiX.
 
 
 
