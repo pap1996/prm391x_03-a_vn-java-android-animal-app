@@ -8,7 +8,7 @@
 
 
 ## About the project
-The app should at least 3 Screens with some following features:
+The app should at least have 3 Screens with some following features:
 - _**Screen 1**_: a drawer list 3 branches of animals. On clicking one of three branches, Screen 2 will appear and be filled with animals belonging to the clicked branch.
 - **_Screen 2_**: list all animals available
   - On clicking into an icon of animal on Screen 2, Screen 3 will appear with the respective information.
